@@ -1,2 +1,3 @@
 # python-decrypt-version-index
-A Python script that takes a Minecraft version index and decrypts it to a "result" folder
+
+Replace `index_example.json` to the index of the version you want to decrypt. In the `.minecraft` folder, they're found in `\assets\indexes` (at least in Windows I think)
